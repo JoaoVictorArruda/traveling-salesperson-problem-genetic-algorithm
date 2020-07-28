@@ -7,8 +7,8 @@
 
 Algoritmo desenvolvido no âmbito acadêmico para a disciplina de Inteligência Artificial do [Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC)](https://www.udesc.br/ceavi). Os autores da simulação são:
 
- - [**João Victor Arruda**](mailto:jvanunes1@gmail.com)
- - [**Lucas Fusinato Zanis**](mailto:lucasfusinato-17@hotmail.com)
+ - [**João Victor Arruda**](mailto:jvanunes1@gmail.com) - [JoaoVictorArruda](https://github.com/JoaoVictorArruda)
+ - [**Lucas Fusinato Zanis**](mailto:lucasfusinato-17@hotmail.com) - [lucasfusinato](https://github.com/lucasfusinato)
 
 # Sumário
 * [Problema](#problema)
