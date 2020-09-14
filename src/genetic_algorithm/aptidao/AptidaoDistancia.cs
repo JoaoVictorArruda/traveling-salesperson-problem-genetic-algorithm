@@ -20,9 +20,13 @@ namespace traveling_salesperson_problem_genetic_algorithm.genetic_algorithm.apti
         {
             double distanciaTotal = 0.0;
 
+            //Calcula a aptidão do indivíduo somando as distâncias entre cada par de localidade que ele percorre até voltar para o início
             for (int i = 0; i < individuo.cromossomo.Length; i++)
             {
-                distanciaTotal += this.mapa.getDistanciaEntrePontos(individuo.cromossomo[i], individuo.cromossomo[i + 1]);
+                int indiceA = i;
+                int indiceB = i + 1 >= individuo.cromossomo.Length ? 0 : i + 1;
+
+                distanciaTotal += this.mapa.getDistanciaEntrePontos(indiceA, indiceB);
             }
 
             return distanciaTotal;
