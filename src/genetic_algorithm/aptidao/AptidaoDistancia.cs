@@ -26,7 +26,7 @@ namespace traveling_salesperson_problem_genetic_algorithm.genetic_algorithm.apti
                 int indiceA = i;
                 int indiceB = i + 1 >= individuo.cromossomo.Length ? 0 : i + 1;
 
-                distanciaTotal += this.mapa.getDistanciaEntrePontos(indiceA, indiceB);
+                distanciaTotal += this.mapa.getDistanciaEntrePontos(individuo.cromossomo[indiceA], individuo.cromossomo[indiceB]);
             }
 
             return distanciaTotal;
