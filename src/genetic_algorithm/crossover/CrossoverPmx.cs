@@ -39,16 +39,46 @@ namespace traveling_salesperson_problem_genetic_algorithm.genetic_algorithm.cros
             return new ParIndividuo(individuoA, individuoB);
         }
 
-        //@todo: não implementado
         private Individuo cruzar(Individuo paiA, Individuo paiB, Func<int, bool> crossoverPoint)
         {
             int[] individuo = new int[paiA.cromossomo.Length];
+            int[] cruzamento = new int[individuo.Length];
+            int[] genesSubstituidos = new int[individuo.Length];
 
-            for (int i = 0; i < individuo.Length; i++)
+            //Inicializa a lista de genes substituídos com o valor -1 para verificações posteriores
+            for (int i = 0; i < genesSubstituidos.Length; i++)
             {
-                individuo[i] = paiA.cromossomo[i];
+                genesSubstituidos[i] = -1;
             }
 
+            //Realiza o crossover nos pontos de corte indicados
+            for (int i = 0; i < cruzamento.Length; i++)
+            {
+                int gene = paiA.cromossomo[i];
+                if (crossoverPoint(i))
+                {
+                    int novoGene = paiB.cromossomo[i];
+                    genesSubstituidos[novoGene] = gene;
+                    gene = novoGene;
+                }
+                cruzamento[i] = gene;
+            }
+
+            //Trata as duplicidades nos genes que não foram alterados
+            for (int i = 0; i < cruzamento.Length; i++)
+            {
+                int gene = cruzamento[i];
+                if (!crossoverPoint(i))
+                {
+                    while (genesSubstituidos[gene] != -1)
+                    {
+                        gene = genesSubstituidos[gene];
+                    }
+                }
+                individuo[i] = gene;
+            }
+
+            //Retorna um novo indivíduo após o cruzamento
             return new Individuo(individuo);
         }
     }
