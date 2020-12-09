@@ -22,7 +22,7 @@ Algoritmo desenvolvido no âmbito acadêmico para a disciplina de Inteligência 
 O Problema do Caixeiro Viajante (PCV) é um problema que tenta determinar a menor rota para percorrer uma série de cidades (visitando uma única vez cada uma delas), retornando à cidade de origem. Ele é um problema de otimização NP-difícil inspirado na necessidade dos vendedores em realizar entregas em diversos locais (as cidades) percorrendo o menor caminho possível, reduzindo o tempo necessário para a viagem e os possíveis custos com transporte e combustível.
 
 ## [Dataset](#dataset)
-Uma interface permite o usuário desenhar a posição das cidades. Além de um arquivo (berlin52.txt) para importação com as coordenadas de um plano cartesiano, onde cada ponto representa uma cidade. O dataset pode ser encontrado em [Ruprecht-Karls-Universität Heidelberg](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/).
+Uma interface permite o usuário desenhar a posição das localidades. Além de um arquivo (berlin52.txt) para importação com as coordenadas de um plano cartesiano, onde cada ponto representa uma localidade em Berlim. O dataset pode ser encontrado em [Ruprecht-Karls-Universität Heidelberg](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/).
 
 ## [Técnica](#tecnica)
 Para resolver o problema do caixeiro viajante foram utilizados algoritmos genéticos.
@@ -51,7 +51,7 @@ Os detalhes da implementação do algoritmo são descritos abaixo.
 ### Estratégia de Crossover
 - Para cada par de indivíduos selecionados a partir do torneio, é gerado um número aleatório para verificar se devem ser cruzados, considerando uma taxa de crossover
 - A taxa de crossover pode ser configurada através da interface da aplicação
-- O cruzamento é realizado com a técnica de Partially Mapped Crossover, ou PMX
+- O cruzamento é realizado com a técnica de Partially Mapped Crossover, ou PMX. Neste método, dois pontos de recombinação são selecionados aleatoriamente e o PMX atua posicionando trocas sábias. Os dois pontos de recombinação fornecem a seleção correspondente. Ela afeta o cruzamento pelas operações de troca, posição por posição. Neste método os pais são mapeados para o outro, por isso seu nome.
 - Nessa técnica, inicialmente os indivíduos que farão o crossover são permutados com o corte em dois pontos aleatórios, e em seguida são tratados valores restantes que estão duplicados
 - Essa estratégia é importante para garantir valores únicos no cromossomo, conforme especificado anteriormente
 
@@ -72,7 +72,15 @@ Considerando as diversas opções de implementação do algoritmo genético, opt
 Para medir os resultados do algoritmo, foram realizados testes com:
 - Diferentes quantidades de população (25, 100 e 400)
 - Diferentes quantidades de geração (100, 200, 400, 600, 1000 e 1600)
-- Diferentes técnicas para configuarção das taxas de mutação e crossover (DHM/ILC, ILM/DHC, 0.03MR0.9CR, FFMCR)
+- Diferentes técnicas para configuração das taxas de mutação e crossover: (DHM/ILC, ILM/DHC, 0.03MR0.9CR, FFMCR)
+  * DHM/ILC(Dynamic Decreasing of High Mutation Rate/Increasing of Low Crossover Rate) - A taxa de mutação é diminuida iniciando em 100%, a taxa de cruzamento é aumentada iniciando em 0%. Fórmulas:
+    * Taxa de mutação: 1 - (geraçãoAtual/totalGerações);
+    * Taxa de cruzamento: geraçãoAtual/totalGerações;
+  * ILM/DHC(Dynamic Increasing of Low Mutation/Decreasing of High Crossover) - O oposto da técnica DHM/ILC, sendo a taxa de cruzamento iniciando em 100% e a taxa de mutação iniciando em 0%. Fórmulas:
+    * Taxa de mutação: geraçãoAtual/totalGerações;
+    * Taxa de cruzamento: 1 - (geraçãoAtual/totalGerações);
+  * 0.03MR0.9CR - A taxa de cruzamento fixa em 90% e taxa de mutação 3%.
+  * FFMCR (Fixed 50% for Mutation and Crossover Rates) - Ambas as taxas de cruzamento e mutação são fixas em 50%.
 
 Para definição dos resultados, foi obtida a média de 5 execuções do programa para cada combinação dos testes destacados acima.
 
