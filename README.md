@@ -51,7 +51,7 @@ Os detalhes da implementação do algoritmo são descritos abaixo.
 ### Estratégia de Crossover
 - Para cada par de indivíduos selecionados a partir do torneio, é gerado um número aleatório para verificar se devem ser cruzados, considerando uma taxa de crossover
 - A taxa de crossover pode ser configurada através da interface da aplicação
-- O cruzamento é realizado com a técnica de Partially Mapped Crossover, ou PMX. Neste método, dois pontos de recombinação são selecionados aleatoriamente e o PMX atua posicionando trocas sábias. Os dois pontos de recombinação fornecem a seleção correspondente. Ela afeta o cruzamento pelas operações de troca, posição por posição. Neste método os pais são mapeados para o outro, por isso seu nome.
+- O cruzamento é realizado com a técnica de Partially Mapped Crossover, ou PMX. Neste método, é escolhido aleatóriamente pontos de corte no cromossomo pai para gerar um cromossomo filho, no pedaço entre os cortes, é realizado um mapeamento dos valores de um pai para os valores do outro, de forma que os valores são ajustados de forma a retirar qualquer valor duplicado no crossomo filho.
 - Nessa técnica, inicialmente os indivíduos que farão o crossover são permutados com o corte em dois pontos aleatórios, e em seguida são tratados valores restantes que estão duplicados
 - Essa estratégia é importante para garantir valores únicos no cromossomo, conforme especificado anteriormente
 
