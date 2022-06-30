@@ -1,0 +1,69 @@
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ZedGraph.xml
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\src.csprojAssemblyReference.cache
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\src.csproj.GenerateResource.cache
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\src.csproj.CoreCompileInputs.cache
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\src.csproj.CopyComplete
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe.config
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.pdb
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\traveling_salesperson_problem_genetic_algorithm.Properties.Resources.resources
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.exe
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.pdb
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe.manifest
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.application
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.exe.manifest
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.application
+C:\Users\jvanu\Desktop\AG-TSP - Versão Aluno\AG-TSP\obj\Debug\traveling_salesperson_problem_genetic_algorithm.ConfiguracaoForm.resources
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\obj\Debug\traveling_salesperson_problem_genetic_algorithm.ConfiguracaoForm.resources
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\obj\Debug\traveling_salesperson_problem_genetic_algorithm.Properties.Resources.resources
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\obj\Debug\src.csproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.exe
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.pdb
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe.config
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.pdb
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\obj\Debug\src.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documents\UDESC\Engenharia de Software\Fase 7\Inteligencia Computacional\trabalho-implementacao\v0.1\AG-TSP\obj\Debug\src.csproj.CopyComplete
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe.config
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe.manifest
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.application
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.pdb
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\src.csprojAssemblyReference.cache
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\traveling_salesperson_problem_genetic_algorithm.ConfiguracaoForm.resources
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\traveling_salesperson_problem_genetic_algorithm.Properties.Resources.resources
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\src.csproj.GenerateResource.cache
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\src.csproj.CoreCompileInputs.cache
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.exe.manifest
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.application
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\src.csproj.CopyComplete
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.exe
+C:\Users\jvanu\Desktop\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.pdb
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe.config
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe.manifest
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.application
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.exe
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\bin\Debug\traveling-salesperson-problem-genetic-algorithm.pdb
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\src.csprojAssemblyReference.cache
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\traveling_salesperson_problem_genetic_algorithm.ConfiguracaoForm.resources
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\traveling_salesperson_problem_genetic_algorithm.Properties.Resources.resources
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\src.csproj.GenerateResource.cache
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\src.csproj.CoreCompileInputs.cache
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.exe.manifest
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.application
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\src.csproj.CopyComplete
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.exe
+C:\Users\jvanu\Desktop\Facul\Faculdade setima fase\v0.1\AG-TSP\obj\Debug\traveling-salesperson-problem-genetic-algorithm.pdb
